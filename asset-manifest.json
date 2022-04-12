@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/treasure_hunt_presale/static/css/main.c7d13435.css",
+    "main.js": "/treasure_hunt_presale/static/js/main.3a55074a.js",
+    "static/media/bg.png": "/treasure_hunt_presale/static/media/bg.cf67356c9091780780b0.png",
+    "static/media/logo.png": "/treasure_hunt_presale/static/media/logo.4e7444c36f404cf0ca1b.png",
+    "static/media/buy_now.png": "/treasure_hunt_presale/static/media/buy_now.651bd81d4291263bb955.png",
+    "static/media/divider.png": "/treasure_hunt_presale/static/media/divider.e2bc9e0150a42f30fe8a.png",
+    "static/media/popup_title.png": "/treasure_hunt_presale/static/media/popup_title.c08d1ab706b77c68b9ea.png",
+    "static/media/inventory.png": "/treasure_hunt_presale/static/media/inventory.a2f39b2e6aa0992cfc6b.png",
+    "static/media/seaport_title.png": "/treasure_hunt_presale/static/media/seaport_title.dfbeb28fa7623043c39b.png",
+    "static/media/pirate_title.png": "/treasure_hunt_presale/static/media/pirate_title.bd45b9a0303840aea596.png",
+    "static/media/ship_title.png": "/treasure_hunt_presale/static/media/ship_title.ea49564e769ffcd542a5.png",
+    "static/media/chest.png": "/treasure_hunt_presale/static/media/chest.bd9a3bc07e36e7cc5d3b.png",
+    "index.html": "/treasure_hunt_presale/index.html",
+    "main.c7d13435.css.map": "/treasure_hunt_presale/static/css/main.c7d13435.css.map",
+    "main.3a55074a.js.map": "/treasure_hunt_presale/static/js/main.3a55074a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d13435.css",
+    "static/js/main.3a55074a.js"
+  ]
+}
